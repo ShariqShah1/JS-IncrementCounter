@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #3B3E79;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 400px;
+}
+[data-target]{
+    font-size: 60px;
+    color: #F6BE00 ;
+}
+h3{
+    color: gainsboro;
+}
+.fa-mug-hot{
+    font-size: 100px;
+}
